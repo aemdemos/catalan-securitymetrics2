@@ -1,5 +1,5 @@
 # catalan-securitymetrics2
-This is a project created by the ESaaS Demo Tool. It is based on the AEM Boilerplate.
+This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
 
 ## Environments
 - Preview: https://main--catalan-securitymetrics2--aemdemos.hlx.page/
